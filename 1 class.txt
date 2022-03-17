@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>title</title>
+</head>
+<body>
+	<h1>PAKISTAN</h1>
+	<h1><em>PAKISTAN</em></h1>
+	<h2>italic<I>PAKISTAN</I></h2>
+<h3>mark<mark>PAKISTAN</mark></h3>
+<h4>bold<b>PAKISTAN</b></h4>
+<h5>supscript water formulaH<sup>2</sup>O</h5>
+<h6>subscript ph<sub>2</sub></h6>
+<h7>delete <del>INDIA</del><nav>PAKISTAN</nav></h7>
+</body>
+</html>
